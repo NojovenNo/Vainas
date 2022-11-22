@@ -1,5 +1,7 @@
 # Vainas (Frontend app)
 
+![Screenshot 2022-11-22 at 6 17 26 PM](https://user-images.githubusercontent.com/43829669/203440538-daab29d3-6284-42d0-bc2c-5db6d07162ec.png)
+
 > [Project details soon]
 
 ---
